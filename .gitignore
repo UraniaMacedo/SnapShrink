@@ -53,3 +53,4 @@ app.*.map.json
 .env.*
 !.env.example
 backup_antes_assinaturas/
+desktop.ini
