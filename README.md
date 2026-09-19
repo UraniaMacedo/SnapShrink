@@ -25,6 +25,15 @@ Developed from scratch, including:
 - Testing
 - Google Play Store publication
 
+  ## 🛠 Technologies
+
+- Flutter
+- Dart
+- Android SDK
+- Google Play Billing
+- In-App Purchase
+- Google Mobile Ads
+
 # \### Smart Video \& Image Compression for Android
 
 # <p align="center">
