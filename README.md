@@ -1,5 +1,5 @@
 # SnapShrink 📱
-Smart Video & Image Compression App for Android
+Smart Video & Image Compression App built with Flutter
 # 
 # 📱 About the project
 
