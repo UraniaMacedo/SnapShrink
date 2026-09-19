@@ -1,10 +1,21 @@
-# \# SnapShrink
-
+# SnapShrink 📱
+Smart Video & Image Compression App for Android
 # 
+# 📱 About the project
+
+SnapShrink is an Android application developed to reduce the size of images and videos while maintaining good quality.
+
+The app helps users save storage space and share media files more easily.
+
+## 🚀 Features
+
+✅ Image compression  
+✅ Video compression  
+✅ File size optimization  
+✅ Simple and intuitive interface  
+✅ Android mobile application
 
 # \### Smart Video \& Image Compression for Android
-
-# 
 
 # <p align="center">
 
