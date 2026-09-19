@@ -65,11 +65,13 @@ Developed from scratch, including:
 
 # </p>
 
-# 
+## 📲 Download
+
+Available on Google Play Store
+
+[SnapShrink on Google Play](https://play.google.com/store/apps/details?id=com.macedourania.snapshrink&hl=en-us)
 
 # \## 🚀 Features
-
-# 
 
 # \- Video compression
 
@@ -157,11 +159,7 @@ Developed from scratch, including:
 
 # \- Release App Bundles
 
-# 
-
 # \---
-
-# 
 
 # <p align="center">
 
