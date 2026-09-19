@@ -15,6 +15,16 @@ The app helps users save storage space and share media files more easily.
 ✅ Simple and intuitive interface  
 ✅ Android mobile application
 
+## 👩‍💻 Development
+
+Developed from scratch, including:
+
+- Application interface
+- Mobile logic
+- Media processing
+- Testing
+- Google Play Store publication
+
 # \### Smart Video \& Image Compression for Android
 
 # <p align="center">
